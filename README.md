@@ -1,6 +1,6 @@
-# Supplementary Material S1: Image Analysis Manual & ImageJ Macro
+# Supplementary Material S2: Image Analysis Manual & ImageJ Macro
 
-### This repository holds supplemtary material "S1" for the article (currently in peer review):
+### This repository holds supplemtary material "S2" for the article (currently in peer review):
 
 ### Brefeld, D., Di Mauro, V., Kellermann, M.Y., Nietzer, S., Moeller, M., Lütjens, L.H., Pawlowski, S., Petersen-Thiery, M. and Schupp, P.J. (2023). Acute Toxicity Assays with Adult Coral Fragments: A Method for Standardization. *Toxics* **2023**, *11*, x. [https://doi.org/10.3390/xxxxx](https://doi.org/10.3390/xxxxx).
 
