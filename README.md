@@ -1,8 +1,8 @@
 # Supplementary Material S2: Image Analysis Manual & ImageJ Macro
 
-### This repository holds supplemtary material "S2" for the article (currently in peer review):
+### This repository holds supplemtary material S2 for the article:
 
-### Brefeld, D., Di Mauro, V., Kellermann, M.Y., Nietzer, S., Moeller, M., Lütjens, L.H., Pawlowski, S., Petersen-Thiery, M. and Schupp, P.J. (2023). Acute Toxicity Assays with Adult Coral Fragments: A Method for Standardization. *Toxics* **2023**, *11*, x. [https://doi.org/10.3390/xxxxx](https://doi.org/10.3390/xxxxx).
+### Brefeld, D.; Di Mauro, V.; Kellermann, M.Y.; Nietzer, S.; Moeller, M.; Lütjens, L.H.; Pawlowski, S.; Petersen-Thiery, M.; Schupp, P.J. Acute Toxicity Assays with Adult Coral Fragments: A Method for Standardization. Toxics **2024**, *12*, 1. [https://doi.org/10.3390/toxics12010001](https://doi.org/10.3390/toxics12010001).
 
 ---
 
@@ -11,4 +11,6 @@ In the study, adult coral fragments of *Montipora digitata* were exposed to diff
 1. An image analysis manual that show all steps from image pre-processing with darktable to image analysis in ImageJ.
 2. An ImageJ macro that allows quick semi-automatic processing of coral fragment images.
 
-Please cite the article if you use any of the available information to create your own image analysis workflow. 
+Example images are available upon request to the corresponding authors.
+
+Please cite the article if you use the available information to create your own image analysis workflow. 
